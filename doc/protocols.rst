@@ -892,3 +892,12 @@ References: `Main site: <https://nano.org/>`_
 OpenWire is a wire protocol used by Apache ActiveMQ for communication between clients and brokers, providing an efficient and flexible messaging framework. While it's not the most popular choice compared to other protocols like AMQP or MQTT, it is still utilized in scenarios where ActiveMQ is heavily integrated.
 
 References: `Main site: <https://activemq.apache.org/components/classic/documentation/openwire>`_
+
+
+.. _Proto 422:
+
+`NDPI_PROTOCOL_IRIS`
+======================
+InterSystems IRIS is a complete cloud-first data platform that makes it easier to build and deploy high-performance, AI-enabled applications that connect data and application silos.
+
+References: `Main site: https://www.intersystems.com/products/intersystems-iris/`_ and `Drivers: https://github.com/intersystems-community/iris-driver-distribution`_
